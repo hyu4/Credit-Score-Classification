@@ -9,4 +9,3 @@ Evaluated models by confusion matrix and overall accuracy
 
 Found that the outstanding debet is the most significant feature to the outcome.
 
-Authors: Junze He, Percival Liu, Neha Humbe Evan Garcia, Maxwell Chu, Marie Yang
