@@ -1,4 +1,5 @@
 # NSDC Credit Score Classification
+Here is a machine learning project I did for National Student Data Corps:
 - Developed classification models to predict credit scores in Python
 - Explored data using Seaborn, Matplotlib, and statsmodels.Logit
 - Built a gradient boosted decision tree and random forest tree using scikit-learn and achieved around 90% accuracy in both models
